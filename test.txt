@@ -1,1 +1,5 @@
-这里的内容是在github上添加的。
+The content here is added on github
+
+Now, it has been translated into English.
+
+Test it again -- 12:48pm
